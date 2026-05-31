@@ -1,6 +1,3 @@
-# Border-Bridge
-A World-Geo-Based Game
-
 # Country Data Layer
 
 Foundation dataset for the geo-intelligence platform.
