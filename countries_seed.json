@@ -1,0 +1,3005 @@
+[
+  {
+    "id": "PRT",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "coordinates": {
+      "lat": 39.3999,
+      "lng": -8.2245
+    },
+    "capitalCoordinates": {
+      "lat": 38.7169,
+      "lng": -9.1395
+    },
+    "borders": [
+      "ESP"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "🇵🇹",
+    "timezone": "UTC",
+    "utcOffset": "+00:00",
+    "flightHoursFrom": {
+      "USA": 9.1,
+      "GBR": 3.0,
+      "DEU": 3.2,
+      "FRA": 2.3,
+      "JPN": 13.1,
+      "CHN": 11.2,
+      "IND": 10.3,
+      "BRA": 9.3,
+      "AUS": 18.9,
+      "ZAF": 10.4,
+      "ARE": 7.7,
+      "SGP": 14.1,
+      "RUS": 9.1,
+      "CAN": 8.7,
+      "MEX": 10.7
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Portugal"
+  },
+  {
+    "id": "ESP",
+    "name": "Spain",
+    "capital": "Madrid",
+    "coordinates": {
+      "lat": 40.4637,
+      "lng": -3.7492
+    },
+    "capitalCoordinates": {
+      "lat": 40.4168,
+      "lng": -3.7038
+    },
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "MAR",
+      "PRT"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "🇪🇸",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 9.4,
+      "GBR": 2.8,
+      "DEU": 2.8,
+      "FRA": 1.9,
+      "JPN": 12.8,
+      "CHN": 10.8,
+      "IND": 9.8,
+      "BRA": 9.7,
+      "AUS": 18.5,
+      "ZAF": 10.3,
+      "ARE": 7.3,
+      "SGP": 13.6,
+      "RUS": 8.8,
+      "CAN": 8.8,
+      "MEX": 11.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Spain"
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "capital": "Paris",
+    "coordinates": {
+      "lat": 46.2276,
+      "lng": 2.2137
+    },
+    "capitalCoordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "🇫🇷",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 9.5,
+      "GBR": 2.2,
+      "DEU": 1.9,
+      "FRA": 0.0,
+      "JPN": 11.9,
+      "CHN": 9.9,
+      "IND": 9.2,
+      "BRA": 10.6,
+      "AUS": 17.8,
+      "ZAF": 10.8,
+      "ARE": 6.8,
+      "SGP": 13.0,
+      "RUS": 7.9,
+      "CAN": 8.6,
+      "MEX": 11.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "France"
+  },
+  {
+    "id": "DEU",
+    "name": "Germany",
+    "capital": "Berlin",
+    "coordinates": {
+      "lat": 51.1657,
+      "lng": 10.4515
+    },
+    "capitalCoordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "🇩🇪",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 9.7,
+      "GBR": 2.1,
+      "DEU": 0.0,
+      "FRA": 1.9,
+      "JPN": 11.1,
+      "CHN": 9.0,
+      "IND": 8.5,
+      "BRA": 11.5,
+      "AUS": 17.1,
+      "ZAF": 11.2,
+      "ARE": 6.3,
+      "SGP": 12.3,
+      "RUS": 7.0,
+      "CAN": 8.5,
+      "MEX": 11.5
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Germany"
+  },
+  {
+    "id": "POL",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "coordinates": {
+      "lat": 51.9194,
+      "lng": 19.1451
+    },
+    "capitalCoordinates": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flag": "🇵🇱",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 10.2,
+      "GBR": 2.7,
+      "DEU": 1.7,
+      "FRA": 2.5,
+      "JPN": 10.5,
+      "CHN": 8.4,
+      "IND": 7.9,
+      "BRA": 12.1,
+      "AUS": 16.4,
+      "ZAF": 11.2,
+      "ARE": 5.8,
+      "SGP": 11.6,
+      "RUS": 6.5,
+      "CAN": 8.8,
+      "MEX": 12.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Poland"
+  },
+  {
+    "id": "UKR",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "coordinates": {
+      "lat": 48.3794,
+      "lng": 31.1656
+    },
+    "capitalCoordinates": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flag": "🇺🇦",
+    "timezone": "UTC+02:00",
+    "utcOffset": "+02:00",
+    "flightHoursFrom": {
+      "USA": 11.2,
+      "GBR": 3.7,
+      "DEU": 2.7,
+      "FRA": 3.4,
+      "JPN": 10.1,
+      "CHN": 7.6,
+      "IND": 6.8,
+      "BRA": 12.9,
+      "AUS": 15.4,
+      "ZAF": 10.8,
+      "ARE": 4.8,
+      "SGP": 10.6,
+      "RUS": 6.2,
+      "CAN": 9.6,
+      "MEX": 13.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Ukraine"
+  },
+  {
+    "id": "RUS",
+    "name": "Russia",
+    "capital": "Moscow",
+    "coordinates": {
+      "lat": 61.524,
+      "lng": 105.3188
+    },
+    "capitalCoordinates": {
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flag": "🇷🇺",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 10.9,
+      "GBR": 7.2,
+      "DEU": 7.0,
+      "FRA": 7.9,
+      "JPN": 5.0,
+      "CHN": 4.2,
+      "IND": 6.5,
+      "BRA": 17.1,
+      "AUS": 12.1,
+      "ZAF": 15.0,
+      "ARE": 7.4,
+      "SGP": 8.4,
+      "RUS": 0.0,
+      "CAN": 8.4,
+      "MEX": 12.4
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Russia"
+  },
+  {
+    "id": "ITA",
+    "name": "Italy",
+    "capital": "Rome",
+    "coordinates": {
+      "lat": 41.8719,
+      "lng": 12.5674
+    },
+    "capitalCoordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "🇮🇹",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 10.6,
+      "GBR": 3.1,
+      "DEU": 2.2,
+      "FRA": 2.1,
+      "JPN": 11.8,
+      "CHN": 9.4,
+      "IND": 8.3,
+      "BRA": 11.1,
+      "AUS": 17.0,
+      "ZAF": 10.0,
+      "ARE": 5.8,
+      "SGP": 12.1,
+      "RUS": 7.8,
+      "CAN": 9.6,
+      "MEX": 12.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Italy"
+  },
+  {
+    "id": "GBR",
+    "name": "United Kingdom",
+    "capital": "London",
+    "coordinates": {
+      "lat": 55.3781,
+      "lng": -3.436
+    },
+    "capitalCoordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "borders": [
+      "IRL"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "🇬🇧",
+    "timezone": "UTC",
+    "utcOffset": "+00:00",
+    "flightHoursFrom": {
+      "USA": 8.6,
+      "GBR": 0.0,
+      "DEU": 2.1,
+      "FRA": 2.2,
+      "JPN": 11.2,
+      "CHN": 9.6,
+      "IND": 9.5,
+      "BRA": 11.0,
+      "AUS": 17.9,
+      "ZAF": 12.0,
+      "ARE": 7.5,
+      "SGP": 13.2,
+      "RUS": 7.2,
+      "CAN": 7.5,
+      "MEX": 10.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "United Kingdom"
+  },
+  {
+    "id": "NOR",
+    "name": "Norway",
+    "capital": "Oslo",
+    "coordinates": {
+      "lat": 60.472,
+      "lng": 8.4689
+    },
+    "capitalCoordinates": {
+      "lat": 59.9139,
+      "lng": 10.7522
+    },
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "🇳🇴",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 9.0,
+      "GBR": 2.0,
+      "DEU": 2.2,
+      "FRA": 2.8,
+      "JPN": 10.3,
+      "CHN": 8.7,
+      "IND": 8.7,
+      "BRA": 12.0,
+      "AUS": 16.9,
+      "ZAF": 12.3,
+      "ARE": 7.0,
+      "SGP": 12.3,
+      "RUS": 6.3,
+      "CAN": 7.5,
+      "MEX": 10.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Norway"
+  },
+  {
+    "id": "SWE",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "coordinates": {
+      "lat": 60.1282,
+      "lng": 18.6435
+    },
+    "capitalCoordinates": {
+      "lat": 59.3293,
+      "lng": 18.0686
+    },
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "🇸🇪",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 9.5,
+      "GBR": 2.6,
+      "DEU": 2.2,
+      "FRA": 3.1,
+      "JPN": 9.9,
+      "CHN": 8.1,
+      "IND": 8.1,
+      "BRA": 12.5,
+      "AUS": 16.3,
+      "ZAF": 12.2,
+      "ARE": 6.4,
+      "SGP": 11.7,
+      "RUS": 5.8,
+      "CAN": 7.9,
+      "MEX": 11.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Sweden"
+  },
+  {
+    "id": "FIN",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "coordinates": {
+      "lat": 61.9241,
+      "lng": 25.7482
+    },
+    "capitalCoordinates": {
+      "lat": 60.1699,
+      "lng": 24.9384
+    },
+    "borders": [
+      "NOR",
+      "RUS",
+      "SWE"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "🇫🇮",
+    "timezone": "UTC+02:00",
+    "utcOffset": "+02:00",
+    "flightHoursFrom": {
+      "USA": 9.7,
+      "GBR": 3.0,
+      "DEU": 2.7,
+      "FRA": 3.6,
+      "JPN": 9.4,
+      "CHN": 7.6,
+      "IND": 7.8,
+      "BRA": 13.0,
+      "AUS": 15.9,
+      "ZAF": 12.4,
+      "ARE": 6.3,
+      "SGP": 11.3,
+      "RUS": 5.4,
+      "CAN": 7.9,
+      "MEX": 11.5
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Finland"
+  },
+  {
+    "id": "TUR",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "coordinates": {
+      "lat": 38.9637,
+      "lng": 35.2433
+    },
+    "capitalCoordinates": {
+      "lat": 39.9334,
+      "lng": 32.8597
+    },
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "🇹🇷",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 12.3,
+      "GBR": 4.8,
+      "DEU": 3.6,
+      "FRA": 4.1,
+      "JPN": 10.5,
+      "CHN": 7.6,
+      "IND": 6.1,
+      "BRA": 13.0,
+      "AUS": 14.8,
+      "ZAF": 9.7,
+      "ARE": 3.7,
+      "SGP": 10.0,
+      "RUS": 6.8,
+      "CAN": 10.8,
+      "MEX": 14.1
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Turkey"
+  },
+  {
+    "id": "CHN",
+    "name": "China",
+    "capital": "Beijing",
+    "coordinates": {
+      "lat": 35.8617,
+      "lng": 104.1954
+    },
+    "capitalCoordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    "borders": [
+      "AFG",
+      "BTN",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MNG",
+      "MMR",
+      "NEP",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "🇨🇳",
+    "timezone": "UTC+08:00",
+    "utcOffset": "+08:00",
+    "flightHoursFrom": {
+      "USA": 13.9,
+      "GBR": 9.6,
+      "DEU": 9.0,
+      "FRA": 9.9,
+      "JPN": 4.4,
+      "CHN": 0.0,
+      "IND": 4.3,
+      "BRA": 19.5,
+      "AUS": 9.3,
+      "ZAF": 13.5,
+      "ARE": 6.6,
+      "SGP": 5.3,
+      "RUS": 4.2,
+      "CAN": 11.4,
+      "MEX": 15.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "China"
+  },
+  {
+    "id": "IND",
+    "name": "India",
+    "capital": "New Delhi",
+    "coordinates": {
+      "lat": 20.5937,
+      "lng": 78.9629
+    },
+    "capitalCoordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "borders": [
+      "BGD",
+      "BTN",
+      "CHN",
+      "MMR",
+      "NPL",
+      "PAK"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "🇮🇳",
+    "timezone": "UTC+05:30",
+    "utcOffset": "+05:30",
+    "flightHoursFrom": {
+      "USA": 16.1,
+      "GBR": 9.5,
+      "DEU": 8.5,
+      "FRA": 9.2,
+      "JPN": 7.6,
+      "CHN": 4.3,
+      "IND": 0.0,
+      "BRA": 17.4,
+      "AUS": 9.7,
+      "ZAF": 10.2,
+      "ARE": 3.9,
+      "SGP": 4.8,
+      "RUS": 6.5,
+      "CAN": 13.7,
+      "MEX": 17.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "India"
+  },
+  {
+    "id": "JPN",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "coordinates": {
+      "lat": 36.2048,
+      "lng": 138.2529
+    },
+    "capitalCoordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "borders": [],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "🇯🇵",
+    "timezone": "UTC+09:00",
+    "utcOffset": "+09:00",
+    "flightHoursFrom": {
+      "USA": 12.3,
+      "GBR": 11.2,
+      "DEU": 11.1,
+      "FRA": 11.9,
+      "JPN": 0.0,
+      "CHN": 4.4,
+      "IND": 7.6,
+      "BRA": 20.3,
+      "AUS": 8.6,
+      "ZAF": 16.7,
+      "ARE": 9.9,
+      "SGP": 6.8,
+      "RUS": 5.0,
+      "CAN": 10.0,
+      "MEX": 13.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Japan"
+  },
+  {
+    "id": "KOR",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "coordinates": {
+      "lat": 35.9078,
+      "lng": 127.7669
+    },
+    "capitalCoordinates": {
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    "borders": [
+      "PRK"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "🇰🇷",
+    "timezone": "UTC+09:00",
+    "utcOffset": "+09:00",
+    "flightHoursFrom": {
+      "USA": 12.9,
+      "GBR": 10.8,
+      "DEU": 10.5,
+      "FRA": 11.4,
+      "JPN": 2.0,
+      "CHN": 3.4,
+      "IND": 6.6,
+      "BRA": 20.6,
+      "AUS": 8.6,
+      "ZAF": 15.6,
+      "ARE": 8.9,
+      "SGP": 6.1,
+      "RUS": 4.6,
+      "CAN": 10.5,
+      "MEX": 13.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "South Korea"
+  },
+  {
+    "id": "IRN",
+    "name": "Iran",
+    "capital": "Tehran",
+    "coordinates": {
+      "lat": 32.4279,
+      "lng": 53.688
+    },
+    "capitalCoordinates": {
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "🇮🇷",
+    "timezone": "UTC+03:30",
+    "utcOffset": "+03:30",
+    "flightHoursFrom": {
+      "USA": 14.0,
+      "GBR": 6.6,
+      "DEU": 5.5,
+      "FRA": 6.1,
+      "JPN": 9.4,
+      "CHN": 6.1,
+      "IND": 4.1,
+      "BRA": 14.7,
+      "AUS": 12.8,
+      "ZAF": 9.6,
+      "ARE": 2.1,
+      "SGP": 8.0,
+      "RUS": 6.4,
+      "CAN": 12.1,
+      "MEX": 15.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Iran"
+  },
+  {
+    "id": "IRQ",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "coordinates": {
+      "lat": 33.2232,
+      "lng": 43.6793
+    },
+    "capitalCoordinates": {
+      "lat": 33.3152,
+      "lng": 44.3661
+    },
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "🇮🇶",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 13.4,
+      "GBR": 5.9,
+      "DEU": 4.7,
+      "FRA": 5.2,
+      "JPN": 10.2,
+      "CHN": 7.1,
+      "IND": 5.2,
+      "BRA": 13.6,
+      "AUS": 13.8,
+      "ZAF": 9.2,
+      "ARE": 2.6,
+      "SGP": 9.0,
+      "RUS": 6.9,
+      "CAN": 11.8,
+      "MEX": 15.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Iraq"
+  },
+  {
+    "id": "SAU",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "coordinates": {
+      "lat": 23.8859,
+      "lng": 45.0792
+    },
+    "capitalCoordinates": {
+      "lat": 24.6877,
+      "lng": 46.7219
+    },
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "UAE",
+      "YEM"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "🇸🇦",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 14.4,
+      "GBR": 6.9,
+      "DEU": 5.7,
+      "FRA": 6.1,
+      "JPN": 10.7,
+      "CHN": 7.4,
+      "IND": 4.9,
+      "BRA": 13.6,
+      "AUS": 13.2,
+      "ZAF": 8.2,
+      "ARE": 2.0,
+      "SGP": 8.5,
+      "RUS": 7.8,
+      "CAN": 12.9,
+      "MEX": 16.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Saudi Arabia"
+  },
+  {
+    "id": "ARE",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "coordinates": {
+      "lat": 23.4241,
+      "lng": 53.8478
+    },
+    "capitalCoordinates": {
+      "lat": 24.4539,
+      "lng": 54.3773
+    },
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "🇦🇪",
+    "timezone": "UTC+04:00",
+    "utcOffset": "+04:00",
+    "flightHoursFrom": {
+      "USA": 15.0,
+      "GBR": 7.5,
+      "DEU": 6.3,
+      "FRA": 6.8,
+      "JPN": 9.9,
+      "CHN": 6.6,
+      "IND": 3.9,
+      "BRA": 14.6,
+      "AUS": 12.3,
+      "ZAF": 8.6,
+      "ARE": 0.0,
+      "SGP": 7.6,
+      "RUS": 7.4,
+      "CAN": 13.2,
+      "MEX": 16.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "United Arab Emirates"
+  },
+  {
+    "id": "PAK",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "coordinates": {
+      "lat": 30.3753,
+      "lng": 69.3451
+    },
+    "capitalCoordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "🇵🇰",
+    "timezone": "UTC+05:00",
+    "utcOffset": "+05:00",
+    "flightHoursFrom": {
+      "USA": 14.7,
+      "GBR": 7.9,
+      "DEU": 6.9,
+      "FRA": 7.6,
+      "JPN": 8.0,
+      "CHN": 4.6,
+      "IND": 2.6,
+      "BRA": 16.3,
+      "AUS": 11.3,
+      "ZAF": 10.3,
+      "ARE": 2.9,
+      "SGP": 6.4,
+      "RUS": 5.8,
+      "CAN": 12.5,
+      "MEX": 16.5
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Pakistan"
+  },
+  {
+    "id": "AFG",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "coordinates": {
+      "lat": 33.9391,
+      "lng": 67.71
+    },
+    "capitalCoordinates": {
+      "lat": 34.5553,
+      "lng": 69.2075
+    },
+    "borders": [
+      "CHN",
+      "IRN",
+      "PAK",
+      "TJK",
+      "TKM",
+      "UZB"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "🇦🇫",
+    "timezone": "UTC+04:30",
+    "utcOffset": "+04:30",
+    "flightHoursFrom": {
+      "USA": 14.3,
+      "GBR": 7.5,
+      "DEU": 6.5,
+      "FRA": 7.2,
+      "JPN": 8.0,
+      "CHN": 4.7,
+      "IND": 3.1,
+      "BRA": 16.1,
+      "AUS": 11.7,
+      "ZAF": 10.5,
+      "ARE": 3.0,
+      "SGP": 6.8,
+      "RUS": 5.5,
+      "CAN": 12.1,
+      "MEX": 16.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Afghanistan"
+  },
+  {
+    "id": "KAZ",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "coordinates": {
+      "lat": 48.0196,
+      "lng": 66.9237
+    },
+    "capitalCoordinates": {
+      "lat": 51.1801,
+      "lng": 71.446
+    },
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "🇰🇿",
+    "timezone": "UTC+06:00",
+    "utcOffset": "+06:00",
+    "flightHoursFrom": {
+      "USA": 12.6,
+      "GBR": 6.2,
+      "DEU": 5.4,
+      "FRA": 6.3,
+      "JPN": 7.5,
+      "CHN": 4.7,
+      "IND": 4.6,
+      "BRA": 15.8,
+      "AUS": 12.7,
+      "ZAF": 11.9,
+      "ARE": 4.3,
+      "SGP": 8.0,
+      "RUS": 4.1,
+      "CAN": 10.4,
+      "MEX": 14.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Kazakhstan"
+  },
+  {
+    "id": "MNG",
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "coordinates": {
+      "lat": 46.8625,
+      "lng": 103.8467
+    },
+    "capitalCoordinates": {
+      "lat": 47.8864,
+      "lng": 106.9057
+    },
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "🇲🇳",
+    "timezone": "UTC+08:00",
+    "utcOffset": "+08:00",
+    "flightHoursFrom": {
+      "USA": 12.6,
+      "GBR": 8.5,
+      "DEU": 8.1,
+      "FRA": 9.0,
+      "JPN": 4.4,
+      "CHN": 2.4,
+      "IND": 5.1,
+      "BRA": 18.5,
+      "AUS": 10.5,
+      "ZAF": 14.1,
+      "ARE": 6.7,
+      "SGP": 6.6,
+      "RUS": 2.8,
+      "CAN": 10.1,
+      "MEX": 14.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Mongolia"
+  },
+  {
+    "id": "SGP",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "coordinates": {
+      "lat": 1.3521,
+      "lng": 103.8198
+    },
+    "capitalCoordinates": {
+      "lat": 1.3521,
+      "lng": 103.8198
+    },
+    "borders": [],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇸🇬",
+    "timezone": "UTC+08:00",
+    "utcOffset": "+08:00",
+    "flightHoursFrom": {
+      "USA": 18.0,
+      "GBR": 13.2,
+      "DEU": 12.3,
+      "FRA": 13.0,
+      "JPN": 6.8,
+      "CHN": 5.3,
+      "IND": 4.8,
+      "BRA": 19.9,
+      "AUS": 5.9,
+      "ZAF": 11.2,
+      "ARE": 7.6,
+      "SGP": 0.0,
+      "RUS": 8.4,
+      "CAN": 15.5,
+      "MEX": 18.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Singapore"
+  },
+  {
+    "id": "THA",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "coordinates": {
+      "lat": 15.87,
+      "lng": 100.9925
+    },
+    "capitalCoordinates": {
+      "lat": 13.7563,
+      "lng": 100.5018
+    },
+    "borders": [
+      "KHM",
+      "LAO",
+      "MYS",
+      "MMR"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇹🇭",
+    "timezone": "UTC+07:00",
+    "utcOffset": "+07:00",
+    "flightHoursFrom": {
+      "USA": 16.4,
+      "GBR": 11.5,
+      "DEU": 10.6,
+      "FRA": 11.4,
+      "JPN": 5.8,
+      "CHN": 3.5,
+      "IND": 3.6,
+      "BRA": 20.0,
+      "AUS": 7.4,
+      "ZAF": 11.9,
+      "ARE": 6.5,
+      "SGP": 2.8,
+      "RUS": 6.7,
+      "CAN": 13.9,
+      "MEX": 17.6
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Thailand"
+  },
+  {
+    "id": "VNM",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "coordinates": {
+      "lat": 14.0583,
+      "lng": 108.2772
+    },
+    "capitalCoordinates": {
+      "lat": 21.0285,
+      "lng": 105.8542
+    },
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇻🇳",
+    "timezone": "UTC+07:00",
+    "utcOffset": "+07:00",
+    "flightHoursFrom": {
+      "USA": 16.3,
+      "GBR": 12.1,
+      "DEU": 11.4,
+      "FRA": 12.2,
+      "JPN": 5.3,
+      "CHN": 3.7,
+      "IND": 4.5,
+      "BRA": 20.9,
+      "AUS": 6.7,
+      "ZAF": 12.5,
+      "ARE": 7.4,
+      "SGP": 2.7,
+      "RUS": 6.9,
+      "CAN": 13.9,
+      "MEX": 17.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Vietnam"
+  },
+  {
+    "id": "MMR",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "coordinates": {
+      "lat": 21.9162,
+      "lng": 95.956
+    },
+    "capitalCoordinates": {
+      "lat": 19.7633,
+      "lng": 96.0785
+    },
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇲🇲",
+    "timezone": "UTC+06:30",
+    "utcOffset": "+06:30",
+    "flightHoursFrom": {
+      "USA": 15.8,
+      "GBR": 10.5,
+      "DEU": 9.7,
+      "FRA": 10.5,
+      "JPN": 5.9,
+      "CHN": 2.9,
+      "IND": 3.0,
+      "BRA": 19.4,
+      "AUS": 8.4,
+      "ZAF": 11.8,
+      "ARE": 5.8,
+      "SGP": 3.7,
+      "RUS": 6.0,
+      "CAN": 13.3,
+      "MEX": 17.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Myanmar"
+  },
+  {
+    "id": "ZAF",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "coordinates": {
+      "lat": -30.5595,
+      "lng": 22.9375
+    },
+    "capitalCoordinates": {
+      "lat": -25.7479,
+      "lng": 28.2293
+    },
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flag": "🇿🇦",
+    "timezone": "UTC+02:00",
+    "utcOffset": "+02:00",
+    "flightHoursFrom": {
+      "USA": 17.0,
+      "GBR": 12.0,
+      "DEU": 11.2,
+      "FRA": 10.8,
+      "JPN": 16.7,
+      "CHN": 13.5,
+      "IND": 10.2,
+      "BRA": 9.6,
+      "AUS": 12.5,
+      "ZAF": 0.0,
+      "ARE": 8.6,
+      "SGP": 11.2,
+      "RUS": 15.0,
+      "CAN": 17.9,
+      "MEX": 17.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "South Africa"
+  },
+  {
+    "id": "EGY",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "coordinates": {
+      "lat": 26.8206,
+      "lng": 30.8025
+    },
+    "capitalCoordinates": {
+      "lat": 30.0444,
+      "lng": 31.2357
+    },
+    "borders": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "🇪🇬",
+    "timezone": "UTC+02:00",
+    "utcOffset": "+02:00",
+    "flightHoursFrom": {
+      "USA": 13.2,
+      "GBR": 5.7,
+      "DEU": 4.6,
+      "FRA": 4.7,
+      "JPN": 11.8,
+      "CHN": 8.6,
+      "IND": 6.5,
+      "BRA": 12.1,
+      "AUS": 14.8,
+      "ZAF": 8.1,
+      "ARE": 3.6,
+      "SGP": 10.2,
+      "RUS": 8.3,
+      "CAN": 12.0,
+      "MEX": 14.9
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Egypt"
+  },
+  {
+    "id": "NGA",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "coordinates": {
+      "lat": 9.082,
+      "lng": 8.6753
+    },
+    "capitalCoordinates": {
+      "lat": 9.0765,
+      "lng": 7.3986
+    },
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "🇳🇬",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 12.8,
+      "GBR": 6.8,
+      "DEU": 6.2,
+      "FRA": 5.6,
+      "JPN": 15.1,
+      "CHN": 12.0,
+      "IND": 9.5,
+      "BRA": 9.0,
+      "AUS": 16.5,
+      "ZAF": 6.2,
+      "ARE": 6.6,
+      "SGP": 12.7,
+      "RUS": 11.5,
+      "CAN": 12.8,
+      "MEX": 14.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Nigeria"
+  },
+  {
+    "id": "ETH",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "coordinates": {
+      "lat": 9.145,
+      "lng": 40.4897
+    },
+    "capitalCoordinates": {
+      "lat": 9.032,
+      "lng": 38.7469
+    },
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "🇪🇹",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 15.6,
+      "GBR": 8.1,
+      "DEU": 7.0,
+      "FRA": 7.1,
+      "JPN": 12.2,
+      "CHN": 8.8,
+      "IND": 5.8,
+      "BRA": 12.7,
+      "AUS": 13.0,
+      "ZAF": 6.3,
+      "ARE": 3.4,
+      "SGP": 8.8,
+      "RUS": 9.7,
+      "CAN": 14.5,
+      "MEX": 17.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Ethiopia"
+  },
+  {
+    "id": "KEN",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "coordinates": {
+      "lat": -0.0236,
+      "lng": 37.9062
+    },
+    "capitalCoordinates": {
+      "lat": -1.2921,
+      "lng": 36.8219
+    },
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "🇰🇪",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 16.2,
+      "GBR": 9.0,
+      "DEU": 7.9,
+      "FRA": 7.9,
+      "JPN": 13.2,
+      "CHN": 9.8,
+      "IND": 6.6,
+      "BRA": 12.1,
+      "AUS": 12.8,
+      "ZAF": 5.2,
+      "ARE": 4.5,
+      "SGP": 9.1,
+      "RUS": 10.8,
+      "CAN": 15.4,
+      "MEX": 17.7
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Kenya"
+  },
+  {
+    "id": "TZA",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "coordinates": {
+      "lat": -6.369,
+      "lng": 34.8888
+    },
+    "capitalCoordinates": {
+      "lat": -6.163,
+      "lng": 35.7516
+    },
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "🇹🇿",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 16.5,
+      "GBR": 9.6,
+      "DEU": 8.6,
+      "FRA": 8.4,
+      "JPN": 13.9,
+      "CHN": 10.6,
+      "IND": 7.3,
+      "BRA": 11.5,
+      "AUS": 12.8,
+      "ZAF": 4.3,
+      "ARE": 5.3,
+      "SGP": 9.6,
+      "RUS": 11.7,
+      "CAN": 16.0,
+      "MEX": 17.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Tanzania"
+  },
+  {
+    "id": "DZA",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "coordinates": {
+      "lat": 28.0339,
+      "lng": 1.6596
+    },
+    "capitalCoordinates": {
+      "lat": 36.7372,
+      "lng": 3.0865
+    },
+    "borders": [
+      "LBY",
+      "MLI",
+      "MRT",
+      "MAR",
+      "NER",
+      "TUN",
+      "ESH"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "🇩🇿",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 10.7,
+      "GBR": 4.4,
+      "DEU": 4.0,
+      "FRA": 3.2,
+      "JPN": 13.8,
+      "CHN": 11.3,
+      "IND": 9.6,
+      "BRA": 9.3,
+      "AUS": 18.0,
+      "ZAF": 8.7,
+      "ARE": 6.8,
+      "SGP": 13.4,
+      "RUS": 9.9,
+      "CAN": 10.4,
+      "MEX": 12.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Algeria"
+  },
+  {
+    "id": "MAR",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "coordinates": {
+      "lat": 31.7917,
+      "lng": -7.0926
+    },
+    "capitalCoordinates": {
+      "lat": 33.9716,
+      "lng": -6.8498
+    },
+    "borders": [
+      "DZA",
+      "ESP",
+      "MRT",
+      "ESH"
+    ],
+    "continent": "Africa",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "🇲🇦",
+    "timezone": "UTC+01:00",
+    "utcOffset": "+01:00",
+    "flightHoursFrom": {
+      "USA": 9.7,
+      "GBR": 3.9,
+      "DEU": 3.9,
+      "FRA": 3.0,
+      "JPN": 13.9,
+      "CHN": 11.7,
+      "IND": 10.4,
+      "BRA": 8.8,
+      "AUS": 18.9,
+      "ZAF": 9.5,
+      "ARE": 7.7,
+      "SGP": 14.2,
+      "RUS": 9.9,
+      "CAN": 9.5,
+      "MEX": 11.1
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Morocco"
+  },
+  {
+    "id": "USA",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "coordinates": {
+      "lat": 37.0902,
+      "lng": -95.7129
+    },
+    "capitalCoordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "continent": "North America",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "flag": "🇺🇸",
+    "timezone": "UTC-05:00",
+    "utcOffset": "-05:00",
+    "flightHoursFrom": {
+      "USA": 0.0,
+      "GBR": 8.6,
+      "DEU": 9.7,
+      "FRA": 9.5,
+      "JPN": 12.3,
+      "CHN": 13.9,
+      "IND": 16.1,
+      "BRA": 9.1,
+      "AUS": 17.9,
+      "ZAF": 17.0,
+      "ARE": 15.0,
+      "SGP": 18.0,
+      "RUS": 10.9,
+      "CAN": 3.5,
+      "MEX": 2.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "United States"
+  },
+  {
+    "id": "CAN",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "coordinates": {
+      "lat": 56.1304,
+      "lng": -106.3468
+    },
+    "capitalCoordinates": {
+      "lat": 45.4215,
+      "lng": -75.6972
+    },
+    "borders": [
+      "USA"
+    ],
+    "continent": "North America",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "flag": "🇨🇦",
+    "timezone": "UTC-05:00",
+    "utcOffset": "-05:00",
+    "flightHoursFrom": {
+      "USA": 3.5,
+      "GBR": 7.5,
+      "DEU": 8.5,
+      "FRA": 8.6,
+      "JPN": 10.0,
+      "CHN": 11.4,
+      "IND": 13.7,
+      "BRA": 11.3,
+      "AUS": 16.7,
+      "ZAF": 17.9,
+      "ARE": 13.2,
+      "SGP": 15.5,
+      "RUS": 8.4,
+      "CAN": 0.0,
+      "MEX": 5.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Canada"
+  },
+  {
+    "id": "MEX",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "coordinates": {
+      "lat": 23.6345,
+      "lng": -102.5528
+    },
+    "capitalCoordinates": {
+      "lat": 19.4326,
+      "lng": -99.1332
+    },
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "continent": "North America",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "🇲🇽",
+    "timezone": "UTC-06:00",
+    "utcOffset": "-06:00",
+    "flightHoursFrom": {
+      "USA": 2.8,
+      "GBR": 10.3,
+      "DEU": 11.5,
+      "FRA": 11.2,
+      "JPN": 13.0,
+      "CHN": 15.3,
+      "IND": 17.8,
+      "BRA": 8.7,
+      "AUS": 16.9,
+      "ZAF": 17.2,
+      "ARE": 16.8,
+      "SGP": 18.8,
+      "RUS": 12.4,
+      "CAN": 5.0,
+      "MEX": 0.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Mexico"
+  },
+  {
+    "id": "BRA",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "coordinates": {
+      "lat": -14.235,
+      "lng": -51.9253
+    },
+    "capitalCoordinates": {
+      "lat": -15.7797,
+      "lng": -47.9297
+    },
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "continent": "South America",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "🇧🇷",
+    "timezone": "UTC-03:00",
+    "utcOffset": "-03:00",
+    "flightHoursFrom": {
+      "USA": 9.1,
+      "GBR": 11.0,
+      "DEU": 11.5,
+      "FRA": 10.6,
+      "JPN": 20.3,
+      "CHN": 19.5,
+      "IND": 17.4,
+      "BRA": 0.0,
+      "AUS": 18.3,
+      "ZAF": 9.6,
+      "ARE": 14.6,
+      "SGP": 19.9,
+      "RUS": 17.1,
+      "CAN": 11.3,
+      "MEX": 8.7
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Brazil"
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "coordinates": {
+      "lat": -38.4161,
+      "lng": -63.6167
+    },
+    "capitalCoordinates": {
+      "lat": -34.6037,
+      "lng": -58.3816
+    },
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "continent": "South America",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "🇦🇷",
+    "timezone": "UTC-03:00",
+    "utcOffset": "-03:00",
+    "flightHoursFrom": {
+      "USA": 11.0,
+      "GBR": 14.2,
+      "DEU": 14.6,
+      "FRA": 13.7,
+      "JPN": 21.1,
+      "CHN": 22.0,
+      "IND": 18.7,
+      "BRA": 4.2,
+      "AUS": 15.1,
+      "ZAF": 9.5,
+      "ARE": 16.5,
+      "SGP": 18.4,
+      "RUS": 20.3,
+      "CAN": 13.5,
+      "MEX": 9.9
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Argentina"
+  },
+  {
+    "id": "CHL",
+    "name": "Chile",
+    "capital": "Santiago",
+    "coordinates": {
+      "lat": -35.6751,
+      "lng": -71.543
+    },
+    "capitalCoordinates": {
+      "lat": -33.4489,
+      "lng": -70.6693
+    },
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "continent": "South America",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "🇨🇱",
+    "timezone": "UTC-04:00",
+    "utcOffset": "-04:00",
+    "flightHoursFrom": {
+      "USA": 10.4,
+      "GBR": 14.3,
+      "DEU": 14.9,
+      "FRA": 14.0,
+      "JPN": 20.3,
+      "CHN": 22.8,
+      "IND": 19.5,
+      "BRA": 4.4,
+      "AUS": 15.1,
+      "ZAF": 10.4,
+      "ARE": 17.3,
+      "SGP": 19.0,
+      "RUS": 20.0,
+      "CAN": 12.9,
+      "MEX": 9.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Chile"
+  },
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "coordinates": {
+      "lat": 4.5709,
+      "lng": -74.2973
+    },
+    "capitalCoordinates": {
+      "lat": 4.711,
+      "lng": -74.0721
+    },
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "continent": "South America",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "🇨🇴",
+    "timezone": "UTC-05:00",
+    "utcOffset": "-05:00",
+    "flightHoursFrom": {
+      "USA": 5.7,
+      "GBR": 10.3,
+      "DEU": 11.3,
+      "FRA": 10.6,
+      "JPN": 17.0,
+      "CHN": 18.2,
+      "IND": 18.7,
+      "BRA": 4.6,
+      "AUS": 19.0,
+      "ZAF": 13.2,
+      "ARE": 16.1,
+      "SGP": 22.5,
+      "RUS": 15.1,
+      "CAN": 8.1,
+      "MEX": 5.1
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Colombia"
+  },
+  {
+    "id": "PER",
+    "name": "Peru",
+    "capital": "Lima",
+    "coordinates": {
+      "lat": -9.19,
+      "lng": -75.0152
+    },
+    "capitalCoordinates": {
+      "lat": -12.0464,
+      "lng": -77.0428
+    },
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "continent": "South America",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "🇵🇪",
+    "timezone": "UTC-05:00",
+    "utcOffset": "-05:00",
+    "flightHoursFrom": {
+      "USA": 7.2,
+      "GBR": 11.8,
+      "DEU": 12.7,
+      "FRA": 11.9,
+      "JPN": 18.2,
+      "CHN": 19.9,
+      "IND": 19.8,
+      "BRA": 3.9,
+      "AUS": 17.7,
+      "ZAF": 12.4,
+      "ARE": 17.0,
+      "SGP": 22.3,
+      "RUS": 16.8,
+      "CAN": 9.7,
+      "MEX": 6.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Peru"
+  },
+  {
+    "id": "VEN",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "coordinates": {
+      "lat": 6.4238,
+      "lng": -66.5897
+    },
+    "capitalCoordinates": {
+      "lat": 10.4806,
+      "lng": -66.9036
+    },
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "continent": "South America",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "🇻🇪",
+    "timezone": "UTC-04:00",
+    "utcOffset": "-04:00",
+    "flightHoursFrom": {
+      "USA": 6.0,
+      "GBR": 9.6,
+      "DEU": 10.5,
+      "FRA": 9.7,
+      "JPN": 17.2,
+      "CHN": 17.9,
+      "IND": 17.9,
+      "BRA": 4.1,
+      "AUS": 19.9,
+      "ZAF": 12.5,
+      "ARE": 15.2,
+      "SGP": 21.7,
+      "RUS": 14.8,
+      "CAN": 8.3,
+      "MEX": 5.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Venezuela"
+  },
+  {
+    "id": "AUS",
+    "name": "Australia",
+    "capital": "Canberra",
+    "coordinates": {
+      "lat": -25.2744,
+      "lng": 133.7751
+    },
+    "capitalCoordinates": {
+      "lat": -35.2809,
+      "lng": 149.13
+    },
+    "borders": [],
+    "continent": "Oceania",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flag": "🇦🇺",
+    "timezone": "UTC+10:00",
+    "utcOffset": "+10:00",
+    "flightHoursFrom": {
+      "USA": 17.9,
+      "GBR": 17.9,
+      "DEU": 17.1,
+      "FRA": 17.8,
+      "JPN": 8.6,
+      "CHN": 9.3,
+      "IND": 9.7,
+      "BRA": 18.3,
+      "AUS": 0.0,
+      "ZAF": 12.5,
+      "ARE": 12.3,
+      "SGP": 5.9,
+      "RUS": 12.1,
+      "CAN": 16.7,
+      "MEX": 16.9
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Australia"
+  },
+  {
+    "id": "NZL",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "coordinates": {
+      "lat": -40.9006,
+      "lng": 174.886
+    },
+    "capitalCoordinates": {
+      "lat": -41.2865,
+      "lng": 174.7762
+    },
+    "borders": [],
+    "continent": "Oceania",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flag": "🇳🇿",
+    "timezone": "UTC+12:00",
+    "utcOffset": "+12:00",
+    "flightHoursFrom": {
+      "USA": 14.9,
+      "GBR": 21.4,
+      "DEU": 21.4,
+      "FRA": 22.3,
+      "JPN": 11.4,
+      "CHN": 13.4,
+      "IND": 14.3,
+      "BRA": 14.6,
+      "AUS": 5.6,
+      "ZAF": 13.8,
+      "ARE": 16.8,
+      "SGP": 10.5,
+      "RUS": 15.4,
+      "CAN": 15.5,
+      "MEX": 13.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "New Zealand"
+  },
+  {
+    "id": "BLR",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "coordinates": {
+      "lat": 53.7098,
+      "lng": 27.9534
+    },
+    "capitalCoordinates": {
+      "lat": 53.9045,
+      "lng": 27.5615
+    },
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "continent": "Europe",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flag": "🇧🇾",
+    "timezone": "UTC+03:00",
+    "utcOffset": "+03:00",
+    "flightHoursFrom": {
+      "USA": 10.5,
+      "GBR": 3.2,
+      "DEU": 2.4,
+      "FRA": 3.2,
+      "JPN": 9.9,
+      "CHN": 7.7,
+      "IND": 7.3,
+      "BRA": 12.8,
+      "AUS": 15.7,
+      "ZAF": 11.4,
+      "ARE": 5.4,
+      "SGP": 11.0,
+      "RUS": 5.9,
+      "CAN": 8.9,
+      "MEX": 12.3
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Belarus"
+  },
+  {
+    "id": "GEO",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "coordinates": {
+      "lat": 42.3154,
+      "lng": 43.3569
+    },
+    "capitalCoordinates": {
+      "lat": 41.6938,
+      "lng": 44.8015
+    },
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "🇬🇪",
+    "timezone": "UTC+04:00",
+    "utcOffset": "+04:00",
+    "flightHoursFrom": {
+      "USA": 12.4,
+      "GBR": 5.0,
+      "DEU": 4.0,
+      "FRA": 4.6,
+      "JPN": 9.6,
+      "CHN": 6.8,
+      "IND": 5.6,
+      "BRA": 13.8,
+      "AUS": 14.2,
+      "ZAF": 10.3,
+      "ARE": 3.6,
+      "SGP": 9.4,
+      "RUS": 6.0,
+      "CAN": 10.7,
+      "MEX": 14.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Georgia"
+  },
+  {
+    "id": "AZE",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "coordinates": {
+      "lat": 40.1431,
+      "lng": 47.5769
+    },
+    "capitalCoordinates": {
+      "lat": 40.4093,
+      "lng": 49.8671
+    },
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "🇦🇿",
+    "timezone": "UTC+04:00",
+    "utcOffset": "+04:00",
+    "flightHoursFrom": {
+      "USA": 12.8,
+      "GBR": 5.5,
+      "DEU": 4.4,
+      "FRA": 5.1,
+      "JPN": 9.4,
+      "CHN": 6.4,
+      "IND": 5.1,
+      "BRA": 14.1,
+      "AUS": 13.8,
+      "ZAF": 10.2,
+      "ARE": 3.2,
+      "SGP": 8.9,
+      "RUS": 6.0,
+      "CAN": 11.0,
+      "MEX": 14.6
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Azerbaijan"
+  },
+  {
+    "id": "ARM",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "coordinates": {
+      "lat": 40.0691,
+      "lng": 45.0382
+    },
+    "capitalCoordinates": {
+      "lat": 40.1872,
+      "lng": 44.5152
+    },
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "🇦🇲",
+    "timezone": "UTC+04:00",
+    "utcOffset": "+04:00",
+    "flightHoursFrom": {
+      "USA": 12.7,
+      "GBR": 5.3,
+      "DEU": 4.2,
+      "FRA": 4.9,
+      "JPN": 9.6,
+      "CHN": 6.7,
+      "IND": 5.3,
+      "BRA": 13.9,
+      "AUS": 14.0,
+      "ZAF": 10.1,
+      "ARE": 3.3,
+      "SGP": 9.1,
+      "RUS": 6.2,
+      "CAN": 11.0,
+      "MEX": 14.5
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Armenia"
+  },
+  {
+    "id": "UZB",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "coordinates": {
+      "lat": 41.3775,
+      "lng": 64.5853
+    },
+    "capitalCoordinates": {
+      "lat": 41.2995,
+      "lng": 69.2401
+    },
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "🇺🇿",
+    "timezone": "UTC+05:00",
+    "utcOffset": "+05:00",
+    "flightHoursFrom": {
+      "USA": 13.3,
+      "GBR": 6.6,
+      "DEU": 5.7,
+      "FRA": 6.4,
+      "JPN": 7.9,
+      "CHN": 4.8,
+      "IND": 4.0,
+      "BRA": 15.7,
+      "AUS": 12.4,
+      "ZAF": 11.1,
+      "ARE": 3.5,
+      "SGP": 7.6,
+      "RUS": 4.9,
+      "CAN": 11.2,
+      "MEX": 15.1
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Uzbekistan"
+  },
+  {
+    "id": "TKM",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "coordinates": {
+      "lat": 38.9697,
+      "lng": 59.5563
+    },
+    "capitalCoordinates": {
+      "lat": 37.9601,
+      "lng": 58.3261
+    },
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "🇹🇲",
+    "timezone": "UTC+05:00",
+    "utcOffset": "+05:00",
+    "flightHoursFrom": {
+      "USA": 13.4,
+      "GBR": 6.4,
+      "DEU": 5.4,
+      "FRA": 6.2,
+      "JPN": 8.5,
+      "CHN": 5.4,
+      "IND": 4.1,
+      "BRA": 15.3,
+      "AUS": 12.7,
+      "ZAF": 10.6,
+      "ARE": 3.0,
+      "SGP": 7.8,
+      "RUS": 5.4,
+      "CAN": 11.4,
+      "MEX": 15.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Turkmenistan"
+  },
+  {
+    "id": "TJK",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "coordinates": {
+      "lat": 38.861,
+      "lng": 71.2761
+    },
+    "capitalCoordinates": {
+      "lat": 38.5598,
+      "lng": 68.787
+    },
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "🇹🇯",
+    "timezone": "UTC+05:00",
+    "utcOffset": "+05:00",
+    "flightHoursFrom": {
+      "USA": 13.7,
+      "GBR": 7.3,
+      "DEU": 6.4,
+      "FRA": 7.2,
+      "JPN": 7.4,
+      "CHN": 4.2,
+      "IND": 3.4,
+      "BRA": 16.4,
+      "AUS": 11.7,
+      "ZAF": 11.2,
+      "ARE": 3.6,
+      "SGP": 6.9,
+      "RUS": 4.8,
+      "CAN": 11.5,
+      "MEX": 15.5
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Tajikistan"
+  },
+  {
+    "id": "KGZ",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "coordinates": {
+      "lat": 41.2044,
+      "lng": 74.7661
+    },
+    "capitalCoordinates": {
+      "lat": 42.8746,
+      "lng": 74.5698
+    },
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "🇰🇬",
+    "timezone": "UTC+06:00",
+    "utcOffset": "+06:00",
+    "flightHoursFrom": {
+      "USA": 13.5,
+      "GBR": 7.3,
+      "DEU": 6.5,
+      "FRA": 7.3,
+      "JPN": 7.0,
+      "CHN": 3.9,
+      "IND": 3.6,
+      "BRA": 16.7,
+      "AUS": 11.6,
+      "ZAF": 11.7,
+      "ARE": 4.1,
+      "SGP": 6.9,
+      "RUS": 4.4,
+      "CAN": 11.2,
+      "MEX": 15.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Kyrgyzstan"
+  },
+  {
+    "id": "NPL",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "coordinates": {
+      "lat": 28.3949,
+      "lng": 84.124
+    },
+    "capitalCoordinates": {
+      "lat": 27.7172,
+      "lng": 85.324
+    },
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "🇳🇵",
+    "timezone": "UTC+05:45",
+    "utcOffset": "+05:45",
+    "flightHoursFrom": {
+      "USA": 15.1,
+      "GBR": 9.1,
+      "DEU": 8.2,
+      "FRA": 9.0,
+      "JPN": 6.7,
+      "CHN": 3.3,
+      "IND": 2.1,
+      "BRA": 17.9,
+      "AUS": 9.9,
+      "ZAF": 11.2,
+      "ARE": 4.4,
+      "SGP": 5.1,
+      "RUS": 5.4,
+      "CAN": 12.7,
+      "MEX": 16.8
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Nepal"
+  },
+  {
+    "id": "BGD",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "coordinates": {
+      "lat": 23.685,
+      "lng": 90.3563
+    },
+    "capitalCoordinates": {
+      "lat": 23.8103,
+      "lng": 90.4125
+    },
+    "borders": [
+      "IND",
+      "MMR"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "🇧🇩",
+    "timezone": "UTC+06:00",
+    "utcOffset": "+06:00",
+    "flightHoursFrom": {
+      "USA": 15.7,
+      "GBR": 10.0,
+      "DEU": 9.1,
+      "FRA": 9.9,
+      "JPN": 6.3,
+      "CHN": 3.1,
+      "IND": 2.4,
+      "BRA": 18.7,
+      "AUS": 9.0,
+      "ZAF": 11.4,
+      "ARE": 5.1,
+      "SGP": 4.2,
+      "RUS": 5.8,
+      "CAN": 13.2,
+      "MEX": 17.2
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Bangladesh"
+  },
+  {
+    "id": "LAO",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "coordinates": {
+      "lat": 19.8563,
+      "lng": 102.4955
+    },
+    "capitalCoordinates": {
+      "lat": 17.9757,
+      "lng": 102.6331
+    },
+    "borders": [
+      "KHM",
+      "CHN",
+      "MMR",
+      "THA",
+      "VNM"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇱🇦",
+    "timezone": "UTC+07:00",
+    "utcOffset": "+07:00",
+    "flightHoursFrom": {
+      "USA": 15.9,
+      "GBR": 11.2,
+      "DEU": 10.4,
+      "FRA": 11.2,
+      "JPN": 5.4,
+      "CHN": 3.0,
+      "IND": 3.7,
+      "BRA": 20.1,
+      "AUS": 7.7,
+      "ZAF": 12.3,
+      "ARE": 6.6,
+      "SGP": 3.3,
+      "RUS": 6.2,
+      "CAN": 13.4,
+      "MEX": 17.1
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Laos"
+  },
+  {
+    "id": "KHM",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "coordinates": {
+      "lat": 12.5657,
+      "lng": 104.991
+    },
+    "capitalCoordinates": {
+      "lat": 11.5626,
+      "lng": 104.916
+    },
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇰🇭",
+    "timezone": "UTC+07:00",
+    "utcOffset": "+07:00",
+    "flightHoursFrom": {
+      "USA": 16.6,
+      "GBR": 12.1,
+      "DEU": 11.3,
+      "FRA": 12.1,
+      "JPN": 5.7,
+      "CHN": 3.9,
+      "IND": 4.2,
+      "BRA": 20.5,
+      "AUS": 6.8,
+      "ZAF": 12.1,
+      "ARE": 7.1,
+      "SGP": 2.4,
+      "RUS": 7.0,
+      "CAN": 14.2,
+      "MEX": 17.7
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Cambodia"
+  },
+  {
+    "id": "MYS",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "coordinates": {
+      "lat": 4.2105,
+      "lng": 101.9758
+    },
+    "capitalCoordinates": {
+      "lat": 3.139,
+      "lng": 101.6869
+    },
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇲🇾",
+    "timezone": "UTC+08:00",
+    "utcOffset": "+08:00",
+    "flightHoursFrom": {
+      "USA": 17.7,
+      "GBR": 12.8,
+      "DEU": 11.8,
+      "FRA": 12.6,
+      "JPN": 6.7,
+      "CHN": 4.9,
+      "IND": 4.4,
+      "BRA": 19.8,
+      "AUS": 6.3,
+      "ZAF": 11.2,
+      "ARE": 7.2,
+      "SGP": 1.4,
+      "RUS": 8.1,
+      "CAN": 15.3,
+      "MEX": 18.7
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Malaysia"
+  },
+  {
+    "id": "IDN",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "coordinates": {
+      "lat": -0.7893,
+      "lng": 113.9213
+    },
+    "capitalCoordinates": {
+      "lat": -6.2088,
+      "lng": 106.8456
+    },
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "continent": "Asia",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "🇮🇩",
+    "timezone": "UTC+07:00",
+    "utcOffset": "+07:00",
+    "flightHoursFrom": {
+      "USA": 17.6,
+      "GBR": 14.1,
+      "DEU": 13.2,
+      "FRA": 14.0,
+      "JPN": 6.4,
+      "CHN": 5.7,
+      "IND": 6.0,
+      "BRA": 20.7,
+      "AUS": 4.8,
+      "ZAF": 12.2,
+      "ARE": 8.8,
+      "SGP": 2.3,
+      "RUS": 8.7,
+      "CAN": 15.3,
+      "MEX": 18.0
+    },
+    "population": null,
+    "area": null,
+    "gdpUsd": null,
+    "internetPenetration": null,
+    "flagUrl": "",
+    "officialName": "Indonesia"
+  }
+]
